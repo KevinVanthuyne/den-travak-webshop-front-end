@@ -1,0 +1,14 @@
+[
+    {
+        "id": "111",
+        "name": "Smoske",
+        "ingredients": "Kaas en Hesp",
+        "price": 3.50
+    },
+    {
+        "id": "222",
+        "name": "Gezond",
+        "ingredients": "Groentjes",
+        "price": 4.00
+    }
+]
